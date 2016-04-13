@@ -5,7 +5,7 @@ import java.awt.*;
  * Simple Turtle class which allows the turtle to move in a container.
  * The upper-left corner has always the coordinates (0,0) while the
  * lower-right corner has coordinates (1,1);
- *  
+ * This is rolf hafx edit over vim over mingw64 cmd tool
  */
 class Turtle {
     private double x;
